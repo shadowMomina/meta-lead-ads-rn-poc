@@ -85,4 +85,12 @@ Local shortcut: `http://localhost:3000/test-lead` pushes a fake lead.
 - **Duplicates**: a `seen` set on the server and an `id` check in the app.
 - **Signature check** (`X-Hub-Signature-256`) proves the request came from Meta.
 - **`10.0.2.2`** is how the Android emulator reaches the host computer.
--
+- **Secrets** live only in `server/.env` (git-ignored).
+
+## 📝 Assumptions & limitations
+- Runs on an Android emulator with a temporary tunnel; the Page token is short-lived.
+- Leads are kept in memory only, and the socket has no authentication.
+- The client confirmed in writing that AI assistance was allowed.
+
+---
+Built by **Momina Raheel**
