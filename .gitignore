@@ -4,3 +4,6 @@ node_modules/
 **/.env
 *.log
 gradle-log.txt
+
+/package.json
+/package-lock.json
