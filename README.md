@@ -6,8 +6,8 @@ When a lead is submitted through Meta's **Lead Ads Testing Tool**, it appears
 **Stack:** Node.js · Express · Socket.IO · Meta Graph API · React Native · TypeScript
 
 ## 🎬 Demo
-- Live demo (≤ 5 min): `<paste link>`
-- Code & architecture walkthrough: `<paste link>`
+- Live demo (≤ 5 min): `https://www.loom.com/share/1abcd47fa996443e9a25bb1def9d7ec1`
+- Code & architecture walkthrough: `https://www.loom.com/share/bc02bed6d6fc4c24b2be229e00ecb38e`
 
 ## 🧭 How it works
 
